@@ -22,3 +22,34 @@ img {
     max-width: 900px;
     margin: 0 auto;
 }
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.top-section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#install-link {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: 1.2rem;
+    background-color: #B9E1DB;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, .1);
+    transition: all 0.5s ease 0s;
+}
+
+#install-link:hover {
+    background-color: #abcfc9;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, .2);
+    transform: translateY(-3px);
+}
