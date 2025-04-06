@@ -1,1 +1,0 @@
-Hello! I've moved faithlky.xyz/gcal-multiselect/ to gcal-multiselect.faithlky.xyz. Please find the files here: https://github.com/faithlky/gcal-multiselect/tree/main/docs. Thank you and sorry for the inconvenience!
